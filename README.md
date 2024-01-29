@@ -5,5 +5,5 @@ Executed hardware and software integration and working is attached below :
 ![13](https://github.com/yashvishah27/KrushiMitra/assets/138695600/2b643ed6-da58-4d5e-8586-4b3bf34452c5)
 
 
-https://github.com/yashvishah27/KrushiMitra/assets/138695600/494d6260-808e-4f9f-b115-e7d46aa53761
+https://github.com/yashvishah27/KrushiMitra/assets/138695600/9a78eed5-0e89-4c9f-9211-eb1eeb16595d
 
